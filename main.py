@@ -1,3 +1,5 @@
+# Used OpenAI's API for GPT-4 model for code
+
 import pvporcupine
 import struct
 import wave
