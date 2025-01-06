@@ -1,3 +1,4 @@
+// Code from the API of arduino connect to Blynk
 /board 8266 : LOLIN (WeMos) D1 R1
 //D2 = 4  , D6 = 12 ,D7 = 13 , D8 = 15
 
